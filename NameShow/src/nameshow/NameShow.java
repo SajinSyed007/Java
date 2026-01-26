@@ -11,7 +11,7 @@ public class NameShow {
         System.out.print("What is your name? ");
         String name = input.nextLine();
         
-        System.out.println("My name is " + name);
+        System.out.println("My name is " + name +".");
     }
         
         
